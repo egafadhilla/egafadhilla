@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-* 🔭 I’m currently working on sharpening my skills in **Laravel 10** for enterprise-level applications.
-* 🌱 I’m currently exploring how to integrate modern frontend frameworks with my backend projects.
-* 💬 Ask me about **PHP, Laravel, CodeIgniter,** and building **RESTful APIs**.
-* 📫 How to reach me: **[ega.fadhilla@example.com](mailto:ega.fadhilla@example.com)** (ganti dengan email Anda).
-* ⚡ Fun fact: I believe a clean codebase is as important as a functional one.
+* 🔭 I’m currently working on sharpening my skills in **Microcontroller** for useful project and robotics.
+* 🌱 I’m currently exploring how to optimalize microcontroller programming.
+* 💬 Ask me about **Microcontroller Programming** and building **useful project**.
+* 📫 How to reach me: **[egafadhilla88@gmail.com](mailto:egafadhilla88@gmail.com.com)**.
+* ⚡ Fun fact: I believe a smart code with AI is best way for fast learning.
 
 ---
 
